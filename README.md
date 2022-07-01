@@ -3,7 +3,7 @@
 #### FrontEnd
 ```js
 const joriel = {
-	code : ['Javascript', 'HTML' , 'CSS'],
+	code : ['Javascript', 'HTML' , 'CSS', 'SASS'],
 	tools: ['React', 'Node'],
 	passions: ['web development', 'learn day by day']
 }
